@@ -65,7 +65,7 @@ If you use **Omarchy**, you can install the theme directly from the style/theme 
 
 1. 📋 Copy this repository URL:
    ```bash
-   https://github.com/rudra8th-afk/Purple-Moon
+   https://github.com/Grey-007/Purple-Moon
    ```
 2. 🪄 Open the Omarchy menu (`Super + Alt + Space`).
 3. 🎨 Go to `Install > Style > Theme`.
