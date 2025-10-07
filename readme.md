@@ -4,6 +4,9 @@ A sleek, **purple-themed Omarchy/Hyprland style pack** designed to bring a cohes
 
 Purple-Moon combines configuration snippets and visual themes for Hyprland and commonly used Wayland applications, helping you achieve a unified aesthetic with minimal setup.
 
+### Purple-moon preview
+ ![Purple-Moon Preview](https://raw.githubusercontent.com/Grey-007/Purple-Moon/main/image.png)
+
 ---
 
 ## 📦 Included Components
