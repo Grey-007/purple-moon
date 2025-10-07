@@ -98,6 +98,14 @@ To change only colors, locate the variable section (usually near the top of each
 📄 No license file is currently included. Consider adding an `MIT` or other permissive license to allow reuse.
 
 ---
+## Acknowledgements
 
+Special thanks to Aether by Bjarne Øverli for providing an outstanding theme creation tool for Omarchy. This project benefits from the flexible palette, blueprint, and template features pioneered by Aether.
+
+---
+## About Omarchy
+Omarchy is an opinionated Arch/Hyprland setup aimed at making Linux ricing easy and beautiful out of the box
+
+---
 🌙 **Experience the calm beauty of Purple-Moon — a theme refined in deep shades of violet.** ✨
 
