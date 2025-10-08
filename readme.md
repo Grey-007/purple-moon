@@ -7,6 +7,8 @@ Purple-Moon combines configuration snippets and visual themes for Hyprland and c
 ### Purple-moon preview
  ![Purple-Moon Preview](https://github.com/Grey-007/purple-moon/blob/main/image.png)
 
+ ![purple-moon preview](https://github.com/Grey-007/purple-moon/blob/main/image2.png)
+
 ---
 
 ## 📦 Included Components
