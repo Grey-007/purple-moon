@@ -4,3 +4,45 @@
 @define-color border #9c6cd0;
 @define-color foreground #ffffff;
 @define-color background #020007;
+
+window .box-wrapper {
+  background: alpha(@base, 0.55);
+  padding: 8px;
+  color: @text;
+  border: 1px solid @border;
+  margin: 0;
+}
+
+window .search-container {
+  background: transparent 30%;
+  border-radius: 0;
+}
+
+window .placeholder {
+  opacity: 0.9;
+  color: @text;
+}
+
+window .input {
+  color: @accent;
+  padding: 0;
+  font-weight: 300;
+}
+
+child {
+  padding: 0 8px;
+  background: transparent;
+  border-radius: 0;
+  border-left: 2px solid transparent;
+  transition: all 160ms ease-in-out;
+}
+
+child:hover {
+  background: linear-gradient(90deg, alpha(@accent, 0.08), transparent 80%);
+  border-left: 2px solid alpha(@accent, 0.4);
+}
+
+child:selected {
+  background: linear-gradient(90deg, alpha(@accent, 0.2), transparent 100%);
+  border-left: 2px solid @accent;
+}
