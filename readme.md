@@ -12,51 +12,10 @@ Purple-Moon combines configuration snippets and visual themes for Hyprland and c
 
 ---
 
-## 📦 Included Components
-
-This repository provides ready-to-use configuration files and style snippets for a wide range of Wayland applications:
-
-- 🎨 `backgrounds/` — wallpapers designed to complement the theme
-- 🧩 `alacritty.toml` — Alacritty terminal config
-- 📊 `btop.theme` — btop system monitor theme
-- 🌐 `chromium.theme` — Chromium browser customization
-- 👻 `ghostty.conf` — Ghostty terminal config
-- 🪟 `hyprland.conf` — Hyprland configuration
-- 🔒 `hyprlock.conf` — Hyprlock (lockscreen) configuration
-- 🧭 `icons.theme` — icon theme file
-- 💻 `kitty.conf` — Kitty terminal configuration
-- 🔔 `mako.ini` — Mako notifications configuration
-- 🧠 `neovim.lua` — Neovim configuration snippet
-- 📺 `swayosd.css` — SwayOSD (on-screen display) styling
-- 🧙 `walker.css` — Walker widget styles
-- 📊 `waybar.css` — Waybar bar theme
-- 🚀 `wofi.css` — Wofi launcher styling
-
 > 💡 These configs are modular — use them all for a unified look or mix and match to your liking.
 
 ---
 
-## ✨ Features
-
-- 💜 Purple-inspired palette for a calm yet futuristic aesthetic
-- 🧭 Minimalist layout designed for Hyprland
-- ⚙️ Unified design across bar, launcher, lockscreen, and notifications
-- 🪶 Lightweight setup — no dependencies beyond the themed apps
-
----
-
-## 🧰 Requirements
-
-Make sure you have a working Wayland setup (Hyprland recommended) and the following applications installed:
-
-- 🪟 Hyprland (or Omarchy)
-- 🚀 Wofi (launcher)
-- 🧭 Waybar (status bar)
-- 🔔 Mako (notifications)
-- 💻 Kitty / Alacritty (terminals)
-- 🧠 Neovim (optional)
-
----
 
 ## ⚡ Installation (Quick Setup)
 
@@ -112,6 +71,4 @@ Special thanks to Aether by Bjarne Øverli for providing an outstanding theme cr
 ## About Omarchy
 Omarchy is an opinionated Arch/Hyprland setup aimed at making Linux ricing easy and beautiful out of the box
 
----
-🌙 **Experience the calm beauty of Purple-Moon — a theme refined in deep shades of violet.** ✨
 
